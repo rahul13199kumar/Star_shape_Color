@@ -17,3 +17,7 @@ The following steps are used:
 5.Fill the star with the color
 
 
+# Contributor
+
+Rahul Kumar @rahul13199kumar
+
